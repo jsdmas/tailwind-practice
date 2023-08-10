@@ -34,3 +34,4 @@ module.exports = {
 
 - appearance-none : 기본 스타일 리셋
 - text-base : text를 리셋
+- pointer-events-none : 글자를 긁지 못하게한다.
