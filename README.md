@@ -33,4 +33,4 @@ module.exports = {
 ## tailwind
 
 - appearance-none : 기본 스타일 리셋
--
+- text-base : text를 리셋
