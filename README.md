@@ -33,3 +33,8 @@ module.exports = {
   plugins: [],
 };
 ```
+
+## tailwind
+
+- appearance-none : 기본 스타일 리셋
+-
