@@ -35,3 +35,4 @@ module.exports = {
 - appearance-none : 기본 스타일 리셋
 - text-base : text를 리셋
 - pointer-events-none : 글자를 긁지 못하게한다.
+- divide : tailwind 유틸리티 class로 마지막 요소는 border를 안준다던가 하는 곳에 쓰인다.
