@@ -36,3 +36,7 @@ module.exports = {
 - text-base : text를 리셋
 - pointer-events-none : 글자를 긁지 못하게한다.
 - divide : tailwind 유틸리티 class로 마지막 요소는 border를 안준다던가 하는 곳에 쓰인다.
+
+## css
+
+- aspect-ratio : [https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio](https://developer.mozilla.org/en-US/docs/Web/CSS/aspect-ratio)
